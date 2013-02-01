@@ -1,0 +1,1 @@
+﻿#Install-VirtualPackage 'ruybmine.tool' 'ruybmine.app'
